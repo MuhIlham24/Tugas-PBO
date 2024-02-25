@@ -29,7 +29,4 @@ public static void main(String[] args) {
     System.out.print ("\nx/y (format integer) = "+ x/y); 
     System.out.print ("\nx/y (format float = "+ x/y);
     }
-}/*  NIM: 13020220041
-    Nama: Muh Ilham Nur Hidayat Akbar
-    Hari/Tgl: Minggu/24-02-2024
-*/
+}
