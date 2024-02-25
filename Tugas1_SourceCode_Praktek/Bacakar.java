@@ -1,6 +1,7 @@
 /*  NIM: 13020220041
     Nama: Muh Ilham Nur Hidayat Akbar
     Hari/Tgl: Minggu/24-02-2024
+    Waktu Pengerjaan = 10.00 - 14.00
 */
 
 import java.io.BufferedReader; 
