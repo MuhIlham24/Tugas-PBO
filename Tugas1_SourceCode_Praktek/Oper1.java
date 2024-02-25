@@ -22,7 +22,4 @@
     System.out.println ("y << 2 = "+ (y << 2)); /*10==> 1000 = 8 */
     System.out.println ("y >> 3 = "+ (y >>3)); /*10 ==>0000 = 0 */
     }
-}/*  NIM: 13020220041
-    Nama: Muh Ilham Nur Hidayat Akbar
-    Hari/Tgl: Minggu/24-02-2024
-*/
+}
