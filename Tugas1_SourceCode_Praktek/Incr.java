@@ -17,7 +17,4 @@
     j = i++;
     System.out.println ("Nilai i : " + (++i) + "\nNilai j : " + j);
     }
-}/*  NIM: 13020220041
-    Nama: Muh Ilham Nur Hidayat Akbar
-    Hari/Tgl: Minggu/24-02-2024
-*/
+}
