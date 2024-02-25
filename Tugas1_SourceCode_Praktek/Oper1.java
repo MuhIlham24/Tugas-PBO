@@ -1,11 +1,9 @@
 /*  NIM: 13020220041
     Nama: Muh Ilham Nur Hidayat Akbar
     Hari/Tgl: Minggu/24-02-2024
+    Waktu Pengerjaan = 10.00 - 14.00
 */
-/*  NIM: 13020220041
-    Nama: Muh Ilham Nur Hidayat Akbar
-    Hari/Tgl: Minggu/24-02-2024
-*/
+
  public class Oper1 {
  public static void main(String[] args) {
     // TODO Auto-generated method stub
