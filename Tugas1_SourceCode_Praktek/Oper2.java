@@ -34,7 +34,4 @@ public static void main(String[] args) {
     System.out.println("~i = "+ ~i);
     /* -4: 11111100 biner */
     }
-}/*  NIM: 13020220041
-    Nama: Muh Ilham Nur Hidayat Akbar
-    Hari/Tgl: Minggu/24-02-2024
-*/
+}
